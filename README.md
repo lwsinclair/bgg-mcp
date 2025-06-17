@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/watabean-bgg-mcp-badge.png)](https://mseep.ai/app/watabean-bgg-mcp)
+
 # BGG MCP Server
 
 このプロジェクトは、[BoardGameGeek API](https://boardgamegeek.com/wiki/page/BGG_XML_API2)をラップして、[Model Context Protocol (MCP)](https://github.com/modelcontextprotocol)を通じてアクセスできるようにするサーバーです。
